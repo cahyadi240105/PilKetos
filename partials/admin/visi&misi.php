@@ -34,7 +34,7 @@
 	<!-- CSS Just for demo purpose, don't include it in your project -->
 	<link rel="stylesheet" href="../assets/css/demo.css">
 </head>
-<body data-background-color="dark">
+<body data-background-color="">
 	<div class="wrapper">
 		<div class="main-header">
 			<!-- Logo Header -->
@@ -65,11 +65,11 @@
 		</div>
 
 		<!-- Sidebar -->
-		<div class="sidebar sidebar-style-2"  data-background-color="dark2">			
+		<div class="sidebar sidebar-style-2" data-background-color="">
 			<div class="sidebar-wrapper scrollbar scrollbar-inner">
 				<div class="sidebar-content">
-					<ul class="nav nav-primary">
-                        <li class="nav-item ">
+					<ul class="nav nav-warning">
+						<li class="nav-item">
 							<a data-toggle="collapse" href="#dashboard">
 								<i class="fas fa-home"></i>
 								<p>Dashboard</p>
@@ -113,7 +113,7 @@
 								</ul>
 							</div>
 						</li>
-						<li class="nav-item">
+						<li class="nav-item active">
 							<a data-toggle="collapse" href="#sidebarLayouts">
 								<i class="flaticon-users"></i>
 								<p>Kandidat</p>
@@ -223,7 +223,7 @@
                                             <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"><?= $r['misi'];?></textarea>
                                             <label for="floatingTextarea">Misi</label>
                                         </div>
-										<a href="index2.php" class="btn btn-danger mt-2 btn-round"><i class="fa fa-backward"></i> kembali</a>
+										<a href="index2.php" style="color: aliceblue;" class="btn btn-danger mt-2 btn-round"><i class="fa fa-backward"></i> kembali</a>
                                     </div>
 								</div>
 							</div>

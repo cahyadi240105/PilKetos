@@ -3,7 +3,6 @@
 Note : Progress Baru Selesai 90%
 
 Akses :
-Admin
-Panitia
+Admin/Panitia
 Guru
 Siswa-siswi

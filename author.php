@@ -76,10 +76,9 @@
           <div class="col-xs-12 col-md-6">
             <div class="about-author">
               <figure class="author-thumb">
-                <img src="images/dirisaya.jpeg" alt="">
+                <img src="images/" alt="">
               </figure> <!-- /.author-bio -->
               <div class="author-desc">
-                <p><b>Date of birth:</b> 24-Januari-2005</p>
                 <p><b>Language:</b> Indonesia,Java,English</p>
                 <p><b>Expert in:</b> Web development</p>
               </div>
@@ -94,20 +93,6 @@
             <div class="skill-wrapper">
               <div class="progress clear">
                 <div class="skill-name">Photoshop</div>
-                <div class="skill-bar">
-                  <div class="bar"></div>
-                </div>
-                <div class="skill-lavel" data-skill-value="80%"></div>
-              </div> <!-- /.progress -->
-              <div class="progress clear">
-                <div class="skill-name">Illustrator</div>
-                <div class="skill-bar">
-                  <div class="bar"></div>
-                </div>
-                <div class="skill-lavel" data-skill-value="80%"></div>
-              </div> <!-- /.progress -->
-              <div class="progress clear">
-                <div class="skill-name">After Effects</div>
                 <div class="skill-bar">
                   <div class="bar"></div>
                 </div>

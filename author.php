@@ -60,28 +60,27 @@
 <main class="site-wrapper">
   <div class="pt-table">
     <div class="pt-tablecell page-about relative">
-      <!-- .close -->
-      <a href="./" class="page-close"><i class="tf-ion-close"></i></a>
-      <!-- /.close -->
-
       <div class="container">
         <div class="row">
           <div class="col-xs-12 col-md-offset-1 col-md-10 col-lg-offset-2 col-lg-8">
             <div class="page-title text-center">
-              <h2>About <span class="primary">me</span> <span class="title-bg">Cahyadi</span></h2>
-              <p>Saya Pelajar SMK Negeri 1 Bintan Timur</p>
+              <h2>About <span class="primary">me :</span> <span class="title-bg">Cahyadi Prasetyo</span></h2>
+              <p style="color: #1E3A8A">I was previously a student at SMK Negeri 1 Bintan Timur and am now pursuing a bachelor's degree in Informatics Engineering at Raja Ali Haji Maritime University</p>
             </div>
           </div>
 
           <div class="col-xs-12 col-md-6">
             <div class="about-author">
               <figure class="author-thumb">
-                <img src="images/dirisaya.jpeg" alt="">
+                <img src="images/IMG_2406.jpg" alt="">
               </figure> <!-- /.author-bio -->
               <div class="author-desc">
-                <p><b>Date of birth:</b> 24-Januari-2005</p>
-                <p><b>Language:</b> Indonesia,Java,English</p>
-                <p><b>Expert in:</b> Web development</p>
+                <p style="text-transform: capitalize;"><b>Language skills in daily life</b></p>
+                <p style="text-transform: capitalize;">Indonesian,Java,English</p>
+                <p style="text-transform: capitalize;"><b>Current ability</b> </p>
+                <p style="text-transform: capitalize;">Programming Language, <br>Web Development,Database & Cloud, UI/UX </p>
+                <p style="text-transform: capitalize;"><b>Contact me at Github </b></p>
+                <p style="text-transform: capitalize;"> <a href="https://github.com/cahyadi240105">Cahyadi Prasetyo</a></p>
               </div>
               <!-- /.author-desc -->
             </div> <!-- /.about-author -->
@@ -93,32 +92,32 @@
             </div>
             <div class="skill-wrapper">
               <div class="progress clear">
-                <div class="skill-name">Photoshop</div>
+                <div class="skill-name">Programming </div>
                 <div class="skill-bar">
                   <div class="bar"></div>
                 </div>
-                <div class="skill-lavel" data-skill-value="80%"></div>
-              </div> <!-- /.progress -->
+                <div class="skill-lavel" data-skill-value="85%"></div>
+              </div>
               <div class="progress clear">
-                <div class="skill-name">Illustrator</div>
-                <div class="skill-bar">
-                  <div class="bar"></div>
-                </div>
-                <div class="skill-lavel" data-skill-value="80%"></div>
-              </div> <!-- /.progress -->
-              <div class="progress clear">
-                <div class="skill-name">After Effects</div>
-                <div class="skill-bar">
-                  <div class="bar"></div>
-                </div>
-                <div class="skill-lavel" data-skill-value="80%"></div>
-              </div> <!-- /.progress -->
-              <div class="progress clear">
-                <div class="skill-name">HTML5</div>
+                <div class="skill-name">Web development</div>
                 <div class="skill-bar">
                   <div class="bar"></div>
                 </div>
                 <div class="skill-lavel" data-skill-value="95%"></div>
+              </div> <!-- /.progress -->
+              <div class="progress clear">
+                <div class="skill-name">Database & Cloud</div>
+                <div class="skill-bar">
+                  <div class="bar"></div>
+                </div>
+                <div class="skill-lavel" data-skill-value="90%"></div>
+              </div> <!-- /.progress -->
+              <div class="progress clear">
+                <div class="skill-name">UI / UX</div>
+                <div class="skill-bar">
+                  <div class="bar"></div>
+                </div>
+                <div class="skill-lavel" data-skill-value="70%"></div>
               </div> <!-- /.progress -->
             </div> <!-- /.skill-wrapper -->
           </div> <!-- /.col -->

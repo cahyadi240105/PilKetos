@@ -1,4 +1,5 @@
 ---
+|
 # 🗳️ Website Pemilihan Ketua OSIS
 
 *SMKN 1 Bintan Timur*

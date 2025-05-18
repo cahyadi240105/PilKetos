@@ -2,7 +2,7 @@
 Pilketos |
 # 🗳️ Website Pemilihan Ketua OSIS
 
-**SMKN 1 Bintan Timur**
+*SMKN 1 Bintan Timur*
 
 Website ini dikembangkan sebagai **proyek akhir** untuk mata pelajaran Pemrograman Web dan **Sistem Basis Data**. Tujuan dari sistem ini adalah menyediakan platform digital yang transparan dan efisien dalam menyelenggarakan pemilihan Ketua OSIS secara online.
 
